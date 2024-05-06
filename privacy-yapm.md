@@ -1,4 +1,4 @@
-# Privacy Policy for Yapm (Yet Another Password Manager)
+# Yapm (Yet Another Password Manager)
 
 Yapm is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how Yapm collects, uses, and safeguards your data when you use our password management app.
 
@@ -7,7 +7,9 @@ Yapm is committed to protecting your privacy and ensuring the security of your p
 When you use Yapm, the app does not collect any personal information or data from you. All your secrets, are stored exclusively on your device and is never transmitted to Yapm's servers or any third-party services.
 
 However, Yapm does collect anonymous analytics data, such as button clicks and other non-personal usage statistics, to help improve the app's performance and user experience. This data is collected in a way that does not identify individual users and is used solely for the purpose of enhancing the app's functionality.
-How Yapm Uses Your Information
+
+## How Yapm Uses Your Information
+
 As Yapm does not collect any personal information from you, the app does not use your data for any purpose other than storing it securely on your device. Your sensitive information remains entirely under your control and is only accessible to you through the Yapm app on your device.
 The anonymous analytics data collected by Yapm is used to analyze app usage patterns, identify potential improvements, and optimize the user experience. This data is not linked to any personal information and cannot be used to identify individual users.
 
