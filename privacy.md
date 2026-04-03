@@ -1,46 +1,75 @@
-# Capture
+# Capture (For Therapists) — Privacy Policy & Data Deletion
 
-This privacy policy governs your use of the software application `Capture (For Therapists)` for mobile devices that was created by Developer `Capture`. The Application is a one stop shop tool for mental health professionals to easily capture and timely retrieve case related details like Identifying Data, Case History, Case Attachments, Follow ups, etc.
- 
-## What information does the Application obtain and how is it used?
+*Last updated: April 2026*
 
-The application is an offline utility, i.e, it does not need a connection to the internet for it to be used. Any data captured by the therapist like identifying data, case history, follow ups, attachments, etc, are stored in the therapist's device. This data is never sent to any server. 
+## Overview
 
-There is an optional feature in the application where in the therapist can backup all of the data to their _own_ google drive. If the therapist chooses to do so, then identifying data, case history, followups etc are encrypted and backed up to their google drive periodically. The encryption algorithm used is _AES-256_.
+Capture is an offline-first practice management app for mental health professionals. All clinical data is stored locally on your device. No clinical data is sent to or stored on any external server.
 
-## User Provided Information 
+## Information Collection
 
-The application does not have a registration screen. But it requires the therapist to connect with _their_ google drive **if** they choose to back up their data.
+### Clinical data (stored locally only)
 
-## Automatically collected information
+All data you enter — client profiles, case histories, follow-up sessions, treatment goals, assessments, attachments, and payments — is stored on your device. This data never leaves your device unless you explicitly choose to back it up.
 
-The application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile operating system, and information about the way you use the Application. 
+### Optional encrypted backup
 
- 
-## Does the Application collect precise real time location information of the device?
+You may choose to back up your data to your own Google Drive. If you do, all clinical data is encrypted using AES-256 before being uploaded. The encrypted backup is stored in your Google Drive account, not on any server controlled by the developer. No Google account or sign-in is required unless you choose to use this feature.
 
-The Application does not collect precise information about the location of your mobile device. 
+### Anonymous usage analytics
 
- 
-## Do third parties see and/or have access to information obtained by the Application?
+Capture collects anonymous usage analytics (such as which features are used, device type, and operating system) to help improve the app. No clinical data, client information, or personally identifying information is included in analytics.
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service.
+You can disable analytics at any time — see the Data Deletion section below.
+
+### Location data
+
+Capture does not collect any location information.
+
+## Third-Party Access
+
+No clinical data is shared with any third party. Only anonymous, aggregated usage analytics are transmitted to an external analytics service to help improve the app. This can be disabled entirely — see below.
 
 ## Security
 
-We are concerned about safeguarding the confidentiality of the information that is stored in the app. To address this we never send the data stored in the app outside the therapist's device. If the therapist chooses to back up the data to _their_ google drive, we store it in google drive only after encrypting the data using _AES-256_ algorithm. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+All clinical data remains on your device. If you choose to back up to Google Drive, the data is encrypted with AES-256 before upload. The app is protected by a PIN lock. PDF exports are password-protected. No security system can prevent all potential breaches, but Capture is designed so that your data is never transmitted to or stored on any server controlled by the developer.
 
- 
+## Data Deletion
+
+### Delete individual records
+
+Within the app, you can delete individual client profiles, follow-up sessions, treatment goals, assessments, and other records using the delete option on each record.
+
+### Delete all app data
+
+Go to your device's **Settings > Apps > Capture > Storage > Clear Data**. This permanently removes all client records, session notes, and app preferences from your device.
+
+### Uninstall
+
+Uninstalling Capture removes all locally stored data from your device.
+
+### Delete Google Drive backups
+
+If you used the optional encrypted backup feature, your backup is stored in your own Google Drive account. To delete it, open Google Drive, locate the Capture backup file, and delete it. Capture does not retain any copy.
+
+### Disable and delete analytics data
+
+Go to **Settings > Help improve Capture** and turn the toggle off. This will:
+
+- Immediately stop all future analytics collection
+- Delete your analytics profile from the analytics provider's servers
+- Clear all locally stored analytics data
+
+You can re-enable analytics at any time from the same setting.
+
+### No remote clinical data to delete
+
+Capture does not transmit or store your clinical data on any server. There is no remote clinical data to request deletion of. All clinical data resides solely on your device and, if you chose to enable it, in your own Google Drive account.
+
 ## Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This policy may be updated from time to time. Changes will be posted on this page. Continued use of the app after changes are posted constitutes acceptance of the updated policy.
 
- 
-## Your Consent
+## Contact
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using aggregated, anonymized data to help us improve the applications usability.
-
- 
-## Contact us
-
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at reflections.dreams.memories@gmail.com.
+If you have questions about privacy or data deletion, contact us at reflections.dreams.memories@gmail.com.
